@@ -90,7 +90,7 @@ const Header = ({ toggle }) => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Resume
+            Linkedin
           </a>
         </NavBtn>
         <Bars onClick={toggle} />
