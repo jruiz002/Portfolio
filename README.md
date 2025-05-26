@@ -10,15 +10,11 @@ Este es un portafolio web desarrollado en **React** que muestra mis proyectos, h
 - Componente de contacto con funcionalidad para copiar correo al portapapeles.
 - Diseño responsivo para móviles y escritorio.
 
-## 📸 Vista previa
-
-![Screenshot](./src/assets/preview.png) 
-
 ---
 
 ## 🚀 Cómo levantar el proyecto localmente
 
-### ¿Cómo usar el proyecto?
+### Pasos:
 
 ```bash
 git https://github.com/jruiz002/Portfolio.git
