@@ -1,12 +1,29 @@
-# React + Vite
+# Portafolio Personal
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este es un portafolio web desarrollado en **React** que muestra mis proyectos, habilidades, experiencia y formas de contacto. Está diseñado con un enfoque moderno y responsivo, y es fácilmente adaptable para agregar nuevos proyectos o modificar el contenido.
 
-Currently, two official plugins are available:
+## ✨ Características
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Página principal con presentación personal.
+- Sección de proyectos con imágenes, descripciones y enlaces a GitHub.
+- Animaciones suaves al hacer scroll.
+- Componente de contacto con funcionalidad para copiar correo al portapapeles.
+- Diseño responsivo para móviles y escritorio.
 
-## Expanding the ESLint configuration
+## 📸 Vista previa
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![Screenshot](./src/assets/preview.png) 
+
+---
+
+## 🚀 Cómo levantar el proyecto localmente
+
+### 1. Clonar el repositorio
+
+```bash
+git https://github.com/jruiz002/Portfolio.git
+cd portfolio
+
+npm install
+
+npm run dev
